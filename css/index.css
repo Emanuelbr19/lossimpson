@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #ffd90f;
+}
+nav {
+    border-radius: 20px;
+}
+
+h1 { 
+    text-align: center;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+div {
+    margin: 2px;
+    float: left;
+    box-shadow: #000;
+    
+}
+
+p{
+    font-size: 30px;
+    text-align: right;  
+}
+
+
+.box {
+   margin-left: 550px;
+
+}
+
+.sinMargen {
+    padding: 0;
+}
+
+@font-face {
+    font-family: "Simpsonfont";
+    src: url(../fonts/Simpsonfont.otf) format(opentype);
+}
+h2 {
+    font-family: "Simpsonfont";
+    color: #ffd90f;
+}
