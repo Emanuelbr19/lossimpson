@@ -22,22 +22,13 @@ h2 {
     font-size: 30px;
 }
 
-div {
-    margin: 2px;
-    float: left;
-    box-shadow: #000;
-    
+.sombra {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
 }
 
 p{
     font-size: 30px;
-    text-align: right;  
-}
-
-
-.box {
-   margin-left: 550px;
-
+    text-align: left;  
 }
 
 .sinMargen {
